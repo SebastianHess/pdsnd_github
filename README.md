@@ -105,3 +105,7 @@ It's important to give proper credit. Add links to any repo that inspired you or
 2. [Mastering Markdown](https://guides.github.com/features/mastering-markdown/ "link2")
 
 3. [About READMEs](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/about-readmes "link3")
+
+### Update Log
+* **Update 1 - 05.12.2020:** docs: Update README.md with Project Infos
+* **Update 2 - 06.12.2020:** docs: Include "Update Log" in README.md
