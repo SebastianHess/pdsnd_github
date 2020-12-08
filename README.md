@@ -88,6 +88,9 @@ To complete this project, the following software requirements apply:
 > A text editor, like Sublime or Atom.
 > A terminal application (Terminal on Mac and Linux or Cygwin on Windows).
 
+### Installation Instructions
+Run the bikeshare.py file within your terminal witch "python 3 bikeshare.py"
+
 ### Files used
 
 * *chicago.csv*
@@ -108,4 +111,5 @@ It's important to give proper credit. Add links to any repo that inspired you or
 
 ### Update Log
 * **Update 1 - 05.12.2020:** docs: Update README.md with Project Infos
-* **Update 2 - 06.12.2020:** docs: Include "Update Log" in README.md
+* **Update 2 - 08.12.2020:** docs: Include "Update Log" in README.md
+* **Update 3 - 08.12.2020:** ddocs: Include "Installation Instructions" in README.md
